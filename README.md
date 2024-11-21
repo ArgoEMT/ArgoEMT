@@ -1,16 +1,50 @@
-## Hi there 👋
+# Victor DAUMAS
+#### Flutter & Mobile Expert Developer | Mobile App Development Specialist
 
-<!--
-**ArgoEMT/ArgoEMT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Mobile application development specialist with expertise in Flutter and cross-platform solutions. Currently working at Nereva, focusing on delivering high-quality mobile applications.
 
-Here are some ideas to get you started:
+## Professional Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Mobile Development Expert at Nereva**
+- Specialized in Flutter development and mobile applications
+- Cross-platform application development
+- Technical architecture design
+- Mobile app optimization and performance enhancement
+
+## Technical Skills
+
+**Programming Languages**
+- Flutter/Dart
+- Python
+- JavaScript/TypeScript
+- Java
+- C#
+
+**Frameworks & Technologies**
+- Flutter BLoC
+- Flutter RiverPod
+- Flutter GetX
+- ASP.NET
+- Azure DevOps
+- Docker
+- Microsoft Azure
+- Spring Boot
+- MongoDB
+- MySQL
+- Oracle Database
+
+**Development Tools**
+- Git Kraken
+- Github
+- Cursor AI
+- Xcode
+
+## Languages
+- French
+- English
+
+## Contact
+- LinkedIn: [Victor DAUMAS](https://www.linkedin.com/in/victor-daumas)
+- Email: vdaumas@nereva.fr
+- Location: France
