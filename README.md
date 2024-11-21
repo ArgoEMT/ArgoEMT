@@ -45,6 +45,6 @@ Mobile application development specialist with expertise in Flutter and cross-pl
 - English
 
 ## Contact
-- LinkedIn: [Victor DAUMAS](https://www.linkedin.com/in/victor-daumas)
+- LinkedIn: [Victor DAUMAS](https://www.linkedin.com/in/victor-daumas-03112b199/)
 - Email: vdaumas@nereva.fr
 - Location: France
